@@ -1,14 +1,7 @@
 /******************************************************************************
 
-Richard - Primeiro Programa Java
+Richard - Operações matemáticas básicas
 12/08/2022
-
-temos aqui:
-2 métodos chamados main e println (métodos com letra minúscula)
-Nenhum atributo
-3 classes chamdas Main, System e String (classes com letra maiúscula)
-Println é um método da classe System
-String também é classe
 
 *******************************************************************************/
 public class Main
