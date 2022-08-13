@@ -1,12 +1,14 @@
 /******************************************************************************
 
-Richard - Printf
+Richard - Primeiro Programa Java
 12/08/2022
 
 temos aqui:
-1 método chamado main (métodos com letra minúscula)
+2 métodos chamados main e println (métodos com letra minúscula)
 Nenhum atributo
-1 classe chamda Main (classes com letra maiúscula)
+3 classes chamdas Main, System e String (classes com letra maiúscula)
+Println é um método da classe System
+String também é classe
 
 *******************************************************************************/
 public class Main
