@@ -30,7 +30,7 @@ public class Pilha
     {
         for (int i = topo; i >= 0; i--)
         {
-            System.out.println(dados[i]);
+            System.out.print(dados[i] + " ");
         }
     }
     
